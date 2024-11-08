@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Correlation Analysis/.idea/Correlation Analysis.iml" filepath="$PROJECT_DIR$/../Correlation Analysis/.idea/Correlation Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HIPsters/.idea/HIPsters.iml" filepath="$PROJECT_DIR$/../HIPsters/.idea/HIPsters.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fNIRS.iml" filepath="$PROJECT_DIR$/.idea/fNIRS.iml" />
     </modules>
   </component>
